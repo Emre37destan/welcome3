@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Welcome Korzilla",
+        "GUILD_ID": "803247095074258984",
+        "VOICE_CHANNEL": "803247095532224534",
+        "MIN_STAFF_ROLE": "803695339311857695"
+    },
+    "FILES": {
+        "WELCOME": "default_files/hoşgeldin.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": ""
+}
